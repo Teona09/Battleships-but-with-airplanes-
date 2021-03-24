@@ -1,0 +1,42 @@
+﻿  Battleship - Game.cpp
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(33,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(47,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Game2.h(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Game2.h(25,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Game2.h(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Game2.h(39,22): warning C4018: '<': signed/unsigned mismatch
+  ComputerPlayer.cpp
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(33,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(47,22): warning C4018: '<': signed/unsigned mismatch
+  Fleet.cpp
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Fleet.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Fleet.cpp(13,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Fleet.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Fleet.cpp(100,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Fleet.cpp(113,20): warning C4018: '<': signed/unsigned mismatch
+  Airplane.cpp
+  Game.cpp
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(33,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(47,22): warning C4018: '<': signed/unsigned mismatch
+  Game2.cpp
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Game2.h(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Game2.h(25,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Game2.h(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Game2.h(39,22): warning C4018: '<': signed/unsigned mismatch
+  HumanPlayer.cpp
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(33,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Player.h(47,22): warning C4018: '<': signed/unsigned mismatch
+  Square.cpp
+  Tests_Domain.cpp
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Tests_Domain.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Teona Tanasa\source\repos\Battleship - game\Battleship - game\Tests_Domain.cpp(43,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Battleship - game.vcxproj -> C:\Users\Teona Tanasa\source\repos\Battleship - game\Debug\Battleship - game.exe
